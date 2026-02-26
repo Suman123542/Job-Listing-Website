@@ -14,7 +14,7 @@ export default function Footer() {
                     <div className="flex flex-wrap justify-between gap-y-12 lg:gap-x-8">
             
                         <div className="w-full md:w-[45%] lg:w-[35%] flex flex-col items-center md:items-start text-center md:text-left">
-                            <span className="text-lg font-bold text-blue-600">JobFinder</span>
+                            <span className="text-lg font-bold text-blue-600">JobSeekerr.</span>
                             <div className='w-full max-w-52 h-px mt-8 bg-linear-to-r from-black via-white/25 to-black'></div>
                             <p className='text-sm text-white/60 mt-6 max-w-sm leading-relaxed'>
                                We help Perople to find their dream jobs and companies to find the best talents. We are committed to connecting job seekers with their ideal opportunities and empowering businesses to build exceptional teams.
