@@ -1,16 +1,21 @@
-# React + Vite
+# JobSeekerr
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JobSeekerr is a simple job listing website where users can search for jobs, view job details, and apply for positions.  
+The website is fully responsive and works smoothly on mobile and desktop devices.
 
-Currently, two official plugins are available:
+## What I Did
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Created a job listing website using React
+- Added job search by keyword and location
+- Implemented a floating job details section
+- Added apply functionality with success alert
+- Built responsive navigation with mobile menu
+- Created Companies and Blog pages
+- Designed clean and modern UI
 
-## React Compiler
+## What I Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- React Router
+- Tailwind CSS
+- JavaScript
